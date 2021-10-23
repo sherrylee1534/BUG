@@ -32,5 +32,5 @@ Developed with:
 * Unity, Adobe Photoshop
 
 ## Known Bugs and Issues
-* Playing the game at resolutions higher than 1176 x 664 results in the disappearance of some UI.
+* Playing the game at resolutions higher than 1152 x 864 results in the disappearance of some UI.
 * Player can sometimes move through walls.
