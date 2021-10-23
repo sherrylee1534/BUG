@@ -8,6 +8,10 @@ Group members:
 * Sherry Lee Pei Ching (game)
 * Lum Kai Wen (controllers)
 
+Developed with:
+* C#
+* Unity, Adobe Photoshop
+
 ## Features
 * Scoring system that increases each time you pass a Glitch safely
 * Timer
@@ -26,10 +30,6 @@ Group members:
 
 ## Release
 You can download and play the latest, working version (with minor bugs) under **Releases**.
-
-Developed with:
-* C#
-* Unity, Adobe Photoshop
 
 ## Known Bugs and Issues
 * Playing the game at resolutions higher than 1152 x 864 results in the disappearance of some UI.
