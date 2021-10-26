@@ -19,13 +19,13 @@ Developed with:
 
 ## Screenshots
 <p align="center">
-  <img src="images/bug_ss1.png" width="750" >
+  <img src="screenshots/bug_ss1.png" width="750" >
 </p>
 <p align="center">
-  <img src="images/bug_ss2.png" width="750" >
+  <img src="screenshots/bug_ss2.png" width="750" >
 </p>
 <p align="center">
-  <img src="images/bug_ss3.png" width="750" >
+  <img src="screenshots/bug_ss3.png" width="750" >
 </p>
 
 ## Release
