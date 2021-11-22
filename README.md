@@ -31,6 +31,8 @@ Developed with:
 ## Release
 You can download and play the latest, working version (with minor bugs) under **Releases**.
 
+Compatible with Windows.
+
 ## Known Bugs and Issues
 * Playing the game at resolutions higher than 1152 x 864 results in the disappearance of some UI.
 * Player can sometimes move through walls.
