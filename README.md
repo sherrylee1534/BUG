@@ -36,3 +36,5 @@ Compatible with Windows.
 ## Known Bugs and Issues
 * Playing the game at resolutions higher than 1152 x 864 results in the disappearance of some UI.
 * Player can sometimes move through walls.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsherrylee1534%2FBUG&count_bg=%23C16BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
