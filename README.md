@@ -10,7 +10,8 @@ Group members:
 
 Developed with:
 * C#
-* Unity, Adobe Photoshop
+* Unity
+* Adobe Photoshop
 
 ## Features
 * Scoring system that increases each time you pass a Glitch safely
