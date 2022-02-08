@@ -1,6 +1,6 @@
 # BUG
 ## About
-Bluetooth Ultrasimple Gamepad (BUG) is a simple maze game modelled after Labyrinth. The idea of this project is to promote a collaborative gaming experience that requires 4 players for a traditionally single-player game. We designed and developed 4 controllers such that each player only controls 1 direction the bug can move in. Hence, requiring them to communicate in order to safely navigate pass the Glitches.
+Bluetooth Ultrasimple Gamepad (BUG) is a maze game modelled after Labyrinth. The idea of this project is to promote a collaborative gaming experience that requires 4 players for a traditionally single-player game. We designed and developed 4 controllers such that each player only controls 1 direction the bug can move in. Hence, requiring them to communicate in order to safely navigate pass the Glitches.
 
 BUG was developed as an Undergraduate Research Opportunities Programme (UROP) project. Received an official UROP Certificate of Completion.
 
